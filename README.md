@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Lysandre-M
-- 🌱 3rd year Maths & Computer Science student at UGE (France).
-- 👀 I take interest in science and art. Currently working on personnal digital animation project Tweening Generator "TweenGen".
+# ABOUT
+<ul>
+<li><strong>CS enthusiast</strong> and <strong>mathemagician</strong> 🧙‍♂️</li>
+<li><strong>19 y/o</strong>, first <strong>CS Master</strong> student at <strong>UGE</strong> (France).</li>
+<li>Currently working on <em>TweenGen - frame interpolator for animation</em> - project.</li>
 
 <!---
 Lysandre-M/Lysandre-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
