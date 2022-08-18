@@ -1,4 +1,3 @@
-# ABOUT
 <ul>
 <li><strong>CS enthusiast</strong> and <strong>mathemagician</strong> 🧙‍♂️</li>
 <li><strong>19 y/o</strong>, first <strong>CS Master</strong> student at <strong>UGE</strong> (France).</li>
