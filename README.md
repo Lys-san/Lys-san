@@ -1,6 +1,5 @@
 <ul>
-  <li><strong>21 y/o</strong>, <strong>CS Master</strong> student at <strong>UGE</strong> (France).</li>
-  <li>Currently intern at GREYC research group, Caen. </li>
+  <li><strong>21 y/o</strong>, <strong>PhD</strong> student at <strong>ICube</strong> (Strasbourg, France).</li>
   <li>Interests : digital geometry, mathematical morphology, digital art and music !
 </ul>
 
