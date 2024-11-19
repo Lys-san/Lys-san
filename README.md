@@ -1,5 +1,5 @@
-First year PhD at ICube (Strasbourg, France), my thesis focuses on geometry and topology conservation of 3D shapes called LTB-shapes during discretization.
-I'm also a part time teacher at Université de Strasbourg.
+First year PhD at ICube (Strasbourg, France), my thesis focuses on geometry and topology conservation of 3D shapes called LTB-shapes during discretization.\
+I'm also a part time teacher at Université de Strasbourg.\
 I take interest in digital geometry, mathematical morphology, illustration and music !
 
 
