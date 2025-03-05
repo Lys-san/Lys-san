@@ -1,11 +1,11 @@
 ## Hi there ! <img align="left" width="200" src="https://github.com/user-attachments/assets/3e49d06b-58c4-4eb1-8ccb-a03a1ef8ac02"></a>
 
-PhD student at ICube (Strasbourg, France), my thesis focuses on geometry and topology conservation of 3D shapes called LTB-shapes during discretization.\
+PhD student at ICube (Strasbourg, France), my thesis focuses on geometry and topology conservation of 3D shapes called LTB-surfaces during discretization.\
 I'm also a part time teacher at Université de Strasbourg with speciality in bash scripting, algorithmics and programming.
 
-Contact ➡️ <a href="mailto:lmacke\@unistra.fr">lmacke\@unistra.fr</a>
+🪄 - Open source contributions : [Higra : hierarchical graph analysis](https://github.com/higra/Higra)\
+✉️ - Contact ➡️ <a href="mailto:lmacke\@unistra.fr">lmacke\@unistra.fr</a>
 
-<br>
 <br>
 <br>
 
